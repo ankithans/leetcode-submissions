@@ -10,3 +10,7 @@
 - [1337. The K Weakest Rows in a Matrix](https://github.com/ankithans/leetcode-solutions/blob/main/Binary%20Search/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.cpp)(Incomplete)
 - [167. Two Sum II - Input array is sorted](https://github.com/ankithans/leetcode-solutions/blob/main/Binary%20Search/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.cpp)
 - [367. Valid Perfect Square](https://github.com/ankithans/leetcode-solutions/blob/main/Binary%20Search/367.%20Valid%20Perfect%20Square.cpp)
+- [349. Intersection of Two Arrays]()
+- [350. Intersection of Two Arrays II]()
+- [35. Search Insert Position]()
+- [392. Is Subsequence]()
