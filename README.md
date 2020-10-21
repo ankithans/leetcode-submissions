@@ -17,4 +17,5 @@
 
 - ###### Medium
     - [33. Search in Rotated Sorted Array](https://github.com/ankithans/leetcode-solutions/blob/main/Binary%20Search/33.%20Search%20in%20Rotated%20Sorted%20Array.cpp)
+    - [287. Find the Duplicate Number]()
     
