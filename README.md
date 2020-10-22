@@ -18,4 +18,13 @@
 - ###### Medium
     - [33. Search in Rotated Sorted Array](https://github.com/ankithans/leetcode-solutions/blob/main/Binary%20Search/33.%20Search%20in%20Rotated%20Sorted%20Array.cpp)
     - [287. Find the Duplicate Number]()
-    
+    - [378. Kth Smallest Element in a Sorted Matrix]()
+    - []()
+
+
+
+#### Stack & Queues
+- ###### Easy
+    - [20. Valid Parentheses]()
+    - [1021. Remove Outermost Parentheses]()
+    - [1047. Remove All Adjacent Duplicates In String]()
