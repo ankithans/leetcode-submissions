@@ -22,12 +22,12 @@
 
 #### Stack & Queues
 - ###### Easy
-    - [20. Valid Parentheses]()
-    - [1021. Remove Outermost Parentheses]()
-    - [1047. Remove All Adjacent Duplicates In String]()
-    - [232. Implement Queue using Stacks]()
-    - [225. Implement Stack using Queues]()
-    - [155. Min Stack]()
-    - [844. Backspace String Compare]()
-    - [1598. Crawler Log Folder]()
-    - [1544. Make The String Great]()
+    - [20. Valid Parentheses](https://github.com/ankithans/leetcode-solutions/blob/main/stack-and-queue/easy/20.%20Valid%20Parentheses.cpp)
+    - [1021. Remove Outermost Parentheses](https://github.com/ankithans/leetcode-solutions/blob/main/stack-and-queue/easy/1021.%20Remove%20Outermost%20Parentheses.cpp)
+    - [1047. Remove All Adjacent Duplicates In String](https://github.com/ankithans/leetcode-solutions/blob/main/stack-and-queue/easy/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.cpp)
+    - [232. Implement Queue using Stacks](https://github.com/ankithans/leetcode-solutions/blob/main/stack-and-queue/easy/232.%20Implement%20Queue%20using%20Stacks.cpp)
+    - [225. Implement Stack using Queues](https://github.com/ankithans/leetcode-solutions/blob/main/stack-and-queue/easy/225.%20Implement%20Stack%20using%20Queues.cpp)
+    - [155. Min Stack](https://github.com/ankithans/leetcode-solutions/blob/main/stack-and-queue/easy/155.%20Min%20Stack.cpp)
+    - [844. Backspace String Compare](https://github.com/ankithans/leetcode-solutions/blob/main/stack-and-queue/easy/844.%20Backspace%20String%20Compare.cpp)
+    - [1598. Crawler Log Folder](https://github.com/ankithans/leetcode-solutions/blob/main/stack-and-queue/easy/1598.%20Crawler%20Log%20Folder.cpp)
+    - [1544. Make The String Great](https://github.com/ankithans/leetcode-solutions/blob/main/stack-and-queue/easy/1544.%20Make%20The%20String%20Great.cpp)
