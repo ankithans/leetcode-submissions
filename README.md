@@ -27,3 +27,7 @@
     - [1047. Remove All Adjacent Duplicates In String]()
     - [232. Implement Queue using Stacks]()
     - [225. Implement Stack using Queues]()
+    - [155. Min Stack]()
+    - [844. Backspace String Compare]()
+    - [1598. Crawler Log Folder]()
+    - [1544. Make The String Great]()
