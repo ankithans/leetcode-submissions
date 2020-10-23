@@ -28,3 +28,5 @@
     - [20. Valid Parentheses]()
     - [1021. Remove Outermost Parentheses]()
     - [1047. Remove All Adjacent Duplicates In String]()
+    - [232. Implement Queue using Stacks]()
+    - [225. Implement Stack using Queues]()
