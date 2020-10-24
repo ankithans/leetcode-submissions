@@ -46,8 +46,8 @@
 
 ### Tree
 - ###### Easy
-    - [589. N-ary Tree Preorder Traversal]()
-    - [144. Binary Tree Preorder Traversal]()
-    - [94. Binary Tree Inorder Traversal]()
-    - [145. Binary Tree Postorder Traversal]()
-    - [590. N-ary Tree Postorder Traversal]()
+    - [589. N-ary Tree Preorder Traversal](https://github.com/ankithans/leetcode-solutions/blob/main/tree/easy/589.%20N-ary%20Tree%20Preorder%20Traversal.cpp)
+    - [144. Binary Tree Preorder Traversal](https://github.com/ankithans/leetcode-solutions/blob/main/tree/easy/144.%20Binary%20Tree%20Preorder%20Traversal.cpp)
+    - [94. Binary Tree Inorder Traversal](https://github.com/ankithans/leetcode-solutions/blob/main/tree/easy/94.%20Binary%20Tree%20Inorder%20Traversal.cpp)
+    - [145. Binary Tree Postorder Traversal](https://github.com/ankithans/leetcode-solutions/blob/main/tree/easy/145.%20Binary%20Tree%20Postorder%20Traversal.cpp)
+    - [590. N-ary Tree Postorder Traversal](https://github.com/ankithans/leetcode-solutions/blob/main/tree/easy/590.%20N-ary%20Tree%20Postorder%20Traversal.cpp)
