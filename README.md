@@ -31,3 +31,14 @@
     - [844. Backspace String Compare](https://github.com/ankithans/leetcode-solutions/blob/main/stack-and-queue/easy/844.%20Backspace%20String%20Compare.cpp)
     - [1598. Crawler Log Folder](https://github.com/ankithans/leetcode-solutions/blob/main/stack-and-queue/easy/1598.%20Crawler%20Log%20Folder.cpp)
     - [1544. Make The String Great](https://github.com/ankithans/leetcode-solutions/blob/main/stack-and-queue/easy/1544.%20Make%20The%20String%20Great.cpp)
+
+
+### Linked List
+- ###### Easy
+    - [876. Middle of the Linked List]()
+    - [141. Linked List Cycle]()
+    - [206. Reverse Linked List]()
+
+- ###### Medium
+    - [142. Linked List Cycle II]()
+    - [237. Delete Node in a Linked List]()
