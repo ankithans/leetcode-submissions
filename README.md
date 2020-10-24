@@ -35,10 +35,10 @@
 
 ### Linked List
 - ###### Easy
-    - [876. Middle of the Linked List]()
-    - [141. Linked List Cycle]()
-    - [206. Reverse Linked List]()
+    - [876. Middle of the Linked List](https://github.com/ankithans/leetcode-solutions/blob/main/linked-list/easy/876.%20Middle%20of%20the%20Linked%20List.cpp)
+    - [141. Linked List Cycle](https://github.com/ankithans/leetcode-solutions/blob/main/linked-list/easy/141.%20Linked%20List%20Cycle.cpp)
+    - [206. Reverse Linked List](https://github.com/ankithans/leetcode-solutions/blob/main/linked-list/easy/206.%20Reverse%20Linked%20List.cpp)
 
 - ###### Medium
-    - [142. Linked List Cycle II]()
-    - [237. Delete Node in a Linked List]()
+    - [142. Linked List Cycle II](https://github.com/ankithans/leetcode-solutions/blob/main/linked-list/medium/142.%20Linked%20List%20Cycle%20II.cpp)
+    - [237. Delete Node in a Linked List](https://github.com/ankithans/leetcode-solutions/blob/main/linked-list/easy/237.%20Delete%20Node%20in%20a%20Linked%20List.cpp)
