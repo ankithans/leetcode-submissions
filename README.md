@@ -42,3 +42,12 @@
 - ###### Medium
     - [142. Linked List Cycle II](https://github.com/ankithans/leetcode-solutions/blob/main/linked-list/medium/142.%20Linked%20List%20Cycle%20II.cpp)
     - [237. Delete Node in a Linked List](https://github.com/ankithans/leetcode-solutions/blob/main/linked-list/easy/237.%20Delete%20Node%20in%20a%20Linked%20List.cpp)
+
+
+### Tree
+- ###### Easy
+    - [589. N-ary Tree Preorder Traversal]()
+    - [144. Binary Tree Preorder Traversal]()
+    - [94. Binary Tree Inorder Traversal]()
+    - [145. Binary Tree Postorder Traversal]()
+    - [590. N-ary Tree Postorder Traversal]()
