@@ -38,10 +38,14 @@
     - [876. Middle of the Linked List](https://github.com/ankithans/leetcode-solutions/blob/main/linked-list/easy/876.%20Middle%20of%20the%20Linked%20List.cpp)
     - [141. Linked List Cycle](https://github.com/ankithans/leetcode-solutions/blob/main/linked-list/easy/141.%20Linked%20List%20Cycle.cpp)
     - [206. Reverse Linked List](https://github.com/ankithans/leetcode-solutions/blob/main/linked-list/easy/206.%20Reverse%20Linked%20List.cpp)
+    - [237. Delete Node in a Linked List](https://github.com/ankithans/leetcode-solutions/blob/main/linked-list/easy/237.%20Delete%20Node%20in%20a%20Linked%20List.cpp)
+    - [160. Intersection of Two Linked Lists]()
 
 - ###### Medium
     - [142. Linked List Cycle II](https://github.com/ankithans/leetcode-solutions/blob/main/linked-list/medium/142.%20Linked%20List%20Cycle%20II.cpp)
-    - [237. Delete Node in a Linked List](https://github.com/ankithans/leetcode-solutions/blob/main/linked-list/easy/237.%20Delete%20Node%20in%20a%20Linked%20List.cpp)
+    - [328. Odd Even Linked List]()
+    - [24. Swap Nodes in Pairs]()
+    
 
 
 ### Tree
