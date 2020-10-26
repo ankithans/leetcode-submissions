@@ -45,6 +45,7 @@
     - [142. Linked List Cycle II](https://github.com/ankithans/leetcode-solutions/blob/main/linked-list/medium/142.%20Linked%20List%20Cycle%20II.cpp)
     - [328. Odd Even Linked List]()
     - [24. Swap Nodes in Pairs]()
+    - [1019. Next Greater Node In Linked List]()
     
 
 

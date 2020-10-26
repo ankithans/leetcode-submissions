@@ -1,7 +1,7 @@
 // https://leetcode.com/problems/swap-nodes-in-pairs/
 
 
-// swapping the data
+// swapping the data -> O(n) time & O(1) space
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -23,3 +23,6 @@ public:
         return head;
     }
 };
+
+
+// chaining pointers
