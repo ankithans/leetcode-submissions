@@ -39,18 +39,18 @@
     - [141. Linked List Cycle](https://github.com/ankithans/leetcode-solutions/blob/main/linked-list/easy/141.%20Linked%20List%20Cycle.cpp)
     - [206. Reverse Linked List](https://github.com/ankithans/leetcode-solutions/blob/main/linked-list/easy/206.%20Reverse%20Linked%20List.cpp)
     - [237. Delete Node in a Linked List](https://github.com/ankithans/leetcode-solutions/blob/main/linked-list/easy/237.%20Delete%20Node%20in%20a%20Linked%20List.cpp)
-    - [160. Intersection of Two Linked Lists]()
-    - [21. Merge Two Sorted Lists]()
-    - [234. Palindrome Linked List]()
+    - [160. Intersection of Two Linked Lists](https://github.com/ankithans/leetcode-solutions/blob/main/linked-list/easy/160.%20Intersection%20of%20Two%20Linked%20Lists.cpp)
+    - [21. Merge Two Sorted Lists](https://github.com/ankithans/leetcode-solutions/blob/main/linked-list/easy/21.%20Merge%20Two%20Sorted%20Lists.cpp)
+    - [234. Palindrome Linked List](https://github.com/ankithans/leetcode-solutions/blob/main/linked-list/easy/234.%20Palindrome%20Linked%20List.cpp)
 
 - ###### Medium
     - [142. Linked List Cycle II](https://github.com/ankithans/leetcode-solutions/blob/main/linked-list/medium/142.%20Linked%20List%20Cycle%20II.cpp)
-    - [328. Odd Even Linked List]()
-    - [24. Swap Nodes in Pairs]()
-    - [1019. Next Greater Node In Linked List]()
-    - [19. Remove Nth Node From End of List]()
-    - [725. Split Linked List in Parts]()(pending)
-    - [2. Add Two Numbers]()
+    - [328. Odd Even Linked List](https://github.com/ankithans/leetcode-solutions/blob/main/linked-list/medium/328.%20Odd%20Even%20Linked%20List.cpp)
+    - [24. Swap Nodes in Pairs](https://github.com/ankithans/leetcode-solutions/blob/main/linked-list/medium/24.%20Swap%20Nodes%20in%20Pairs.cpp)
+    - [1019. Next Greater Node In Linked List](https://github.com/ankithans/leetcode-solutions/blob/main/linked-list/medium/1019.%20Next%20Greater%20Node%20In%20Linked%20List.cpp)
+    - [19. Remove Nth Node From End of List](https://github.com/ankithans/leetcode-solutions/blob/main/linked-list/medium/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.cpp)
+    - [725. Split Linked List in Parts](https://github.com/ankithans/leetcode-solutions/blob/main/linked-list/medium/725.%20Split%20Linked%20List%20in%20Parts.cpp)(pending)
+    - [2. Add Two Numbers](https://github.com/ankithans/leetcode-solutions/blob/main/linked-list/medium/2.%20Add%20Two%20Numbers.cpp)
     
 
 
