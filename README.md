@@ -1,6 +1,6 @@
 ## leetcode-solutions
 
-#### Binary Search
+### Binary Search
 - ###### Easy
     - [69. Sqrt(x)](https://github.com/ankithans/leetcode-solutions/blob/main/Binary-search/easy/69.%20Sqrt(x).cpp)
     - [374. Guess Number Higher or Lower](https://github.com/ankithans/leetcode-solutions/blob/main/Binary-search/easy/374.%20Guess%20Number%20Higher%20or%20Lower.cpp)
@@ -20,7 +20,7 @@
     - [287. Find the Duplicate Number](https://github.com/ankithans/leetcode-solutions/blob/main/Binary-search/medium/287.%20Find%20the%20Duplicate%20Number.cpp)
     
 
-#### Stack & Queues
+### Stack & Queues
 - ###### Easy
     - [20. Valid Parentheses](https://github.com/ankithans/leetcode-solutions/blob/main/stack-and-queue/easy/20.%20Valid%20Parentheses.cpp)
     - [1021. Remove Outermost Parentheses](https://github.com/ankithans/leetcode-solutions/blob/main/stack-and-queue/easy/1021.%20Remove%20Outermost%20Parentheses.cpp)
