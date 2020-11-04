@@ -1,7 +1,7 @@
 // https://leetcode.com/problems/odd-even-linked-list/
 
 
-// not inplace -> two pass
+// inplace -> two pass
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -15,26 +15,23 @@
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
-        if(head == NULL || head -> next == NULL || head -> next -> next == NULL)
-            return head;
-        ListNode *temp = head, *end = head;
+        ListNode *curr = head;
+        ListNode *end = head;
         int c = 0;
+        if(!head)
+            return head;
         while(end -> next) {
             end = end -> next;
             c++;
         }
-        
-        if(c % 2 == 0)
-            c = c/2 + 1;
-        else
-            c = c/2;
+        c = c&1?(c/2)+1:c/2;
         
         while(c--) {
-            end -> next = temp -> next;
-            temp -> next = temp -> next -> next;
+            end -> next = curr -> next;
+            curr -> next = curr -> next -> next;
             end -> next -> next = NULL;
             
-            temp = temp -> next;
+            curr = curr -> next;
             end = end -> next;
         }
         return head;
